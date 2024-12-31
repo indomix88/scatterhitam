@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /game-mahjong-ways-berhasil-sulawesi-utara-manado.html
+	/strategi-yang-tepat-di-mahjong-ways.html
+	/memburu-hadiah-scatter-hitam-secara-maksimal.html
+	/scatterhitam/menangkap-scatter-hitam-mahjong-dengan-bet-400.html
+	/panduan-lengkap-untuk-scatter-hitam-mahjong.html
+	/berkat-rtp-gacor-dari-tetangga-rumah-wak-kumis-menjadi-naik-haji.html
+	/wak-jamal-pemburu-maxwin-professional-di-game-slot-online.html
+	/game-black-scatter-hitam-pragmatic-membuat-seorang-ibu-menjadi-miliarder.html
+
+# Sitemap lokasi
+Sitemap: https://indomix88.github.io/scatterhitam/sitemap.xml
